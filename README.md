@@ -17,3 +17,12 @@
 | 2019/10/30 | SNA 3 - Bipartite [:link: Google Colab Scratch](https://colab.research.google.com/drive/1hc0Kl5YMFtNyj-wfD5IsYF061w7K0y4o) |
 | 2019/11/06 | SNA 4 - More [:link: Google Colab Scratch](https://colab.research.google.com/drive/1U0uL1LWKMJkaypkk_ZsayDL4gqJdrTys) |
 
+&nbsp;
+--------
+
+The source code of *mintplo* is primarily distributed under the terms
+of the [GNU Affero General Public License v3.0] or any later version. See
+[COPYRIGHT] for details.
+
+[GNU Affero General Public License v3.0]: LICENSE
+[COPYRIGHT]: COPYRIGHT
